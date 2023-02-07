@@ -58,7 +58,69 @@ body, html {
   margin-left: 10px;
 }
 
-.wrapper img {
+.card {
+  padding: 20px;
+  text-align: center;
+  display: inline-block;
+  background-color: white;
+  border: 1px solid black;
+  float: none;
+  margin-bottom: 10px;
+  margin-left: 40px;   
+}
+
+.circle {
+  border: 2px solid grey;    
+  height:50px;
+  border-radius:50%; 
+  width:50px;
+}
+
+#kor1 {
+  background-color: rgb(42, 86, 231);
+}
+
+#kor2 {
+  background-color: rgb(46, 236, 103);
+}
+
+#kor3 {
+  background-color: rgb(227, 250, 19);
+}
+
+#kor4 {
+  background-color: rgb(169, 60, 13);
+}
+
+#kor5 {
+  background-color: rgb(139,69,19);
+}
+
+#kor6 {
+  background-color: rgb(221, 133, 0);
+}
+
+#kor7 {
+  background-color: rgb(74, 5, 111);
+}
+
+#kor8 {
+  background-color: rgb(255, 0, 191);
+}
+
+#kor9 {
+  background-color: rgb(174, 150, 109);
+}
+
+.card-text {
+  text-align: left;
+  font-size: 18px;
+  margin: 0;
+  margin-top: 4px;
+  margin-bottom: 2px;
+}
+
+#homebg{
     width: 950px;
     height: 320px;
 }
@@ -74,11 +136,6 @@ body, html {
   margin-left: 32px;
   margin-right: 200px;
   color:rgb(50, 50, 50)
-}
-
-.bucket {
-  height: 250px;
-  width: 250px;
 }
 
 hr {
