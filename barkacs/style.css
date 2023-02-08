@@ -183,6 +183,7 @@ hr {
   }
 
 
+<<<<<<< HEAD
 #furo {
   background: url('drill.png');
   background-size: 70%;
@@ -228,4 +229,27 @@ hr {
   margin-left: 20px;
   border: 3px solid rgb(255, 255, 255);
   box-shadow: 3px 2px #cacaca;
+=======
+
+#card-img-top2 {
+  height: 10rem;
+  width: 10rem;
+}
+
+.card2 {
+  padding: 20px;
+  text-align: center;
+  display: inline-block;
+  float: none;
+  margin-bottom: 10px;
+  float: none;
+}
+
+.card-text {
+  text-align: center;
+  font-size: 18px;
+  margin: 0;
+  margin-top: 4px;
+  margin-bottom: 2px;
+>>>>>>> 248d7647f936a608f0d6bed1d769c83e55f848fa
 }
