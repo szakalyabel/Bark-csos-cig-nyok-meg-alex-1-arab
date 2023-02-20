@@ -183,6 +183,53 @@ hr {
   }
 
 
+<<<<<<< HEAD
+#furo {
+  background: url('drill.png');
+  background-size: 70%;
+  background-position:center;
+  background-repeat:no-repeat;
+  background-color: rgb(221, 119, 119);
+  height: 120px;
+  width: 120px;
+  margin-left: 20px;
+  border: 3px solid rgb(255, 255, 255);
+  box-shadow: 3px 2px #cacaca;
+}
+
+#gomb {
+  margin-left: 55px;
+  text-decoration: none;
+}
+
+#semmi1
+{
+  background: url('pressure-washer.png');
+  background-size: 70%;
+  background-position:center;
+  background-repeat:no-repeat;
+  background-color: rgb(255, 252, 79);
+  height: 120px;
+  width: 120px;
+  margin-left: 20px;
+  border: 3px solid rgb(255, 255, 255);
+  box-shadow: 3px 2px #cacaca;
+  
+}
+
+#semmi2
+{
+  background: url('screwdriver.png');
+  background-size: 70%;
+  background-position:center;
+  background-repeat:no-repeat;
+  background-color: rgb(36, 170, 88);
+  height: 120px;
+  width: 120px;
+  margin-left: 20px;
+  border: 3px solid rgb(255, 255, 255);
+  box-shadow: 3px 2px #cacaca;
+=======
 
 #card-img-top2 {
   height: 10rem;
@@ -204,6 +251,7 @@ hr {
   margin: 0;
   margin-top: 4px;
   margin-bottom: 2px;
+>>>>>>> 248d7647f936a608f0d6bed1d769c83e55f848fa
 }
 
 #card3{
