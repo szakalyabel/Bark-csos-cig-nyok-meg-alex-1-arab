@@ -619,3 +619,22 @@ hr {
   from { opacity: 0; }
   to { opacity: 1; }
 }
+
+.container2 {
+  margin-left: 20px;
+}
+
+.container2 h3 {
+  margin-left: 210px;
+  color: rgb(0, 195, 255)
+}
+
+.container2 img {
+  border: 1px solid rgb(0, 195, 255);
+}
+
+.container2 a {
+  text-decoration: none;
+  color: rgb(0, 195, 255);
+  margin-left: 650px;
+}
